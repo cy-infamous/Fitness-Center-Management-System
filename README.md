@@ -1,4 +1,4 @@
-to run the program you have replace my mysql password with yours and before running the script create a database in mysql first then run the py script otherwise it will not work
+To run the program you have replace my mysql password with yours and before running the script create a database in mysql first then run the py script otherwise it will not work.
 Fitness Center Management System
 
 This project is a comprehensive management system for a fitness center, designed to handle various aspects of the business such as member registration, class scheduling, trainer management, payment processing, and more. The application is built using Python and integrates with a MySQL database to store and manage data efficiently.
